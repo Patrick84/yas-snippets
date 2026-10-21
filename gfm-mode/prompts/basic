@@ -1,0 +1,51 @@
+# -*- mode: snippet -*-
+# name: prompt
+# key: pbase
+# --
+
+---
+name: ${1}
+description: >-
+	${2}
+---
+
+# {0}
+
+---
+
+## Goal
+
+> A couple of paragraphs about what problem you want to solve, and why.
+
+---
+
+## Acceptance Criteria
+
+1. [ ] Statement that can be answered with *YES* or *NO*
+
+---
+
+## Preparation
+
+0. Read this document in its entirety.
+1. Make sure that you understand **what** the goal is, and **why** I want to
+solve it.
+2. Make sure that you understand what the **acceptance criteria** are. *Check*
+if they are phrased so that they can be answered with a clear *YES* or *NO*.
+3. Make sure that you understand the **workflow** designed to achieve the goal,
+and meet the acceptance criteria (below).
+
+**IF ANY** of the above is unclear or ambiguous, ask for clarification or
+correction. **SAME** for **ANY** open question that you might have. You
+**MUST ASK** for anything that is not clear.
+
+---
+
+## Workflow (Agents)
+
+1. Follow "Preparation" (above) point by point.
+2. Imperative description of the first step towards achieving the goal.
+
+---
+
+## Footnotes

@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: my-hardware-pc
+# key: mypc
+# --
+
+| Component        | Detail                                                                       |
+|------------------|------------------------------------------------------------------------------|
+| Systemhersteller | Gigabyte Technology Co., Ltd.                                                |
+| Systemmodell     | B760 GAMING X AX                                                             |
+| Systemtyp        | x64-basierter PC                                                             |
+| Plattformrolle   | Desktop                                                                      |
+| Mainboard        | Gigabyte B760 GAMING X AX (Version: x.x)                                     |
+| Prozessor        | 12th Gen Intel(R) Core(TM) i5-12600KF, 3700 MHz/10 Kerne/16 log. Prozessoren |
+| Arbeitsspeicher  | 32,0 GB installiert (31,8 GB gesamt physisch)                                |
+| BIOS             | American Megatrends International, LLC. F13, 26.02.2025 (UEFI)               |
+| Grafikkarte      | NITRO+ RX VEGA64 8G HBM2                                                     |
+|------------------|------------------------------------------------------------------------------|
